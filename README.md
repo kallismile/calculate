@@ -1,4 +1,4 @@
-# calculate
-A simple calculate
+# calculator
+A simple calculator
 
 Use React. Open in Visual Code. Use npm start.
